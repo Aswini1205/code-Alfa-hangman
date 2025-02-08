@@ -1,1 +1,1 @@
-# code-Alfa-hangman
+# code-Alpha-hangman
